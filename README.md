@@ -43,6 +43,7 @@ To get started with these projects, follow these steps:
 
 2. Navigate to the project directory you want to explore:
 
+   ```bash
 cd 50-Projects-with-HTML-CSS-JavaScript/project1/
 
 
