@@ -1,8 +1,8 @@
 # 50 Projects with HTML, CSS, and JavaScript
 
-[![GitHub stars](https://img.shields.io/github/stars/YourUsername/50-Projects-with-HTML-CSS-JavaScript.svg)](https://github.com/YourUsername/50-Projects-with-HTML-CSS-JavaScript/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/YourUsername/50-Projects-with-HTML-CSS-JavaScript.svg)](https://github.com/YourUsername/50-Projects-with-HTML-CSS-JavaScript/network)
-[![GitHub license](https://img.shields.io/github/license/YourUsername/50-Projects-with-HTML-CSS-JavaScript.svg)](https://github.com/YourUsername/50-Projects-with-HTML-CSS-JavaScript/blob/master/LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/AMINTECH1/50-Projects-with-HTML-CSS-JavaScript.svg)](https://github.com/AMINTECH1/50-Projects-with-HTML-CSS-JavaScript/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/AMINTECH1/50-Projects-with-HTML-CSS-JavaScript.svg)](https://github.com/AMINTECH1/50-Projects-with-HTML-CSS-JavaScript/network)
+[![GitHub license](https://img.shields.io/github/license/AMINTECH1/50-Projects-with-HTML-CSS-JavaScript.svg)](https://github.com/AMINTECH1/50-Projects-with-HTML-CSS-JavaScript/blob/master/LICENSE)
 
 A collection of 50 small projects built with HTML, CSS, and JavaScript to enhance your web development skills.
 
@@ -26,9 +26,10 @@ Feel free to explore the projects, study the source code, and use them as a refe
 
 Here's a list of the projects included in this repository:
 
-1. Project 1: [Project Name](project1/) - Brief project description.
-2. Project 2: [Project Name](project2/) - Brief project description.
-3. ...
+1. Project 1: [Animated Navigation](/animate%20nav/nav.html) - Animate your navabar.
+2. Project 2: [Blurry Effect](/Blurry%20Effect/blur.html) - BLur your hero banner.
+3. Project 3: [choice picker](/choice%20picker/picker.html) - A fun application for making random choices or decisions.
+4. Project 4: [counter](/counter/counter.html) -A simple counter application that lets you increment and decrement values.
 
 You can find detailed instructions, explanations, and live demos for each project in their respective project folders.
 
@@ -46,7 +47,7 @@ To get started with these projects, follow these steps:
    ```bash
    cd 50-Projects-with-HTML-CSS-JavaScript/project1/
 
-3. Open the `index.html` file in your preferred web browser.
+3. Open the `file containing the .html file` file in your preferred web browser.
 
 4. Start experimenting with the project and its source code.
 
