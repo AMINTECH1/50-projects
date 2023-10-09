@@ -1,11 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&display=swap');
+
 *{
     box-sizing: border-box;
 }
 
 body{
     background-color: #333;
-    font-family: 'Gill Sans', sans-serif;
-    overflow-y: hidden;
+    font-family: 'Lato', sans-serif;
+    overflow-x: hidden;
     margin: 0;
     color: #222;
 }
@@ -23,7 +25,7 @@ body{
     transform: rotate(-20deg);
 }
 
-.circle-containner{
+.circle-container{
     position: fixed;
     top: -100px;
     left: -100px;
@@ -38,7 +40,7 @@ body{
     transition: transform 0.5s linear;
 }
 
-.continer.show-nav{
+.continer.show-nav .circle{
     transform: rotate(-70deg);
 }
 
@@ -63,7 +65,7 @@ body{
     left: 60%;
 }
 
-circle button#close{
+.circle button#close{
     top: 60%;
     transform: rotate(90deg);
     transform-origin: top left;
@@ -74,7 +76,7 @@ circle button#close{
 }
 
 .content{
-    max-width: 100px;
+    max-width: 1000px;
     margin: 50px auto;
 }
 
@@ -83,13 +85,14 @@ circle button#close{
 }
 
 .content small{
-    color: #5555;
+    color: #555;
     font-style: italic;
+    font-size: large;
 }
 
 .content p{
     color: #333;
-    line-height: 1.5s;
+    line-height: 1.5;
 }
 
 .container.show-nav + nav li {
@@ -113,11 +116,11 @@ nav ul li{
     text-transform: uppercase;
     color: #fff;
     margin: 40px 0;
-    transform: translateX(-100%);
-    transition: transform 0,4s ease-in;
+    /* transform: translateX(-100%); */
+    transition: transform 0.4s ease-in;
 }
 
-nav ui li i{
+nav ul li i{
     font-size: 20px;
     margin-right: 10px;
 }
@@ -130,4 +133,8 @@ nav ul li + li {
 nav ul li + li +li {
     margin-left: 30px;
     transform: translateX(-200%);
+}
+
+small{
+   color: #222;
 }
